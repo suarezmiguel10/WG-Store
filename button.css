@@ -10,7 +10,6 @@
   text-align: left;
   padding-left: 0.625rem;
   font-weight: bold;
-  color: black;
   @media (max-width: 800px) {
     margin-top: 0px;
     padding-top:1rem;
