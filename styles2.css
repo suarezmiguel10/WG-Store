@@ -343,9 +343,9 @@ footer {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    nav ul {
+    /* nav ul {
         display: none;
-    }
+    } */
 
     .hero h1 {
         font-size: 2.5rem;
@@ -359,3 +359,11 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+@media (max-width: 500px) {
+    nav a{
+      font-size: 0.5rem ;
+
+    } nav{
+        flex-direction: column;
+    }
+  }
