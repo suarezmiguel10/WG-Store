@@ -360,7 +360,7 @@ footer {
 }
 @media (max-width: 1280px) {
     nav a{
-      font-size: 0.5rem ;
+      font-size: 1.5rem ;
 
     } nav{
         flex-direction: column;
