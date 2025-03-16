@@ -116,7 +116,7 @@ a span:nth-child(4){
 }
 @media (max-width: 1225px) {
     a {
-      font-size: 0.5rem ;
+      font-size: 1rem ;
       
     }
   }
