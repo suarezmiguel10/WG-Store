@@ -22,7 +22,7 @@ a{
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #fff;
-    font-size: 0.5rem;
+    font-size: 1.2rem;
     font-weight: bold;
     transition: .5s;
     overflow: hidden;
@@ -115,7 +115,7 @@ a span:nth-child(4){
     }
 }
 @media (max-width: 500px) {
-    nav a{
+     a{
       font-size: 0.5rem ;
 
     }
